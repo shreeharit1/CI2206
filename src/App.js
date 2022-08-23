@@ -12,6 +12,7 @@ function App() {
       <h1>We are corrected some error, it should work now.</h1>
       <h1>We are corrected another error,it should work now</h1>
       <h1>Getting another error build command ,it resolve ,it should work now</h1>
+      <H1>Getting error in buil command ,it resolve ,then it  will work now</H1>
     </div>
   );
 }
