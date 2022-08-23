@@ -11,6 +11,7 @@ function App() {
       <br></br>
       <h1>We are corrected some error, it should work now.</h1>
       <h1>We are corrected another error,it should work now</h1>
+      <h1>Getting another error build command ,it resolve ,it should work now</h1>
     </div>
   );
 }
