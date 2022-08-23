@@ -1,7 +1,27 @@
 .App {
   text-align: center;
 }
+body {
+  background-color:aqua;
 
+}
+.App h1{
+  border:2px solid black;
+  border-radius:4px;
+  font-size: 30px;
+  color:red;
+  text-shadow: 3px 3px 3px yellow;
+}
+.App img{
+  width:600px;
+  height:500px;
+  display:block;
+  align:left;
+}
+.App p {
+  text-align: justify;
+  font-size: 30px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
